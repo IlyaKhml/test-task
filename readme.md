@@ -36,3 +36,5 @@ python main.py data.xlsx --model_path custom_model.pkl
 * Python 3.7+
 * Файл модели в формате .pkl
 
+## Обучение модели
+Код для обучения и сохранения модели можно найти в ```model_train.ipynb```.
