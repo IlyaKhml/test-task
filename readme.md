@@ -30,7 +30,7 @@ python main.py data.xlsx
 Или с указанием модели:
 
 ```sh
-python main.py --model_path custom_model.pkl --config_path custom_config.json data.xlsx
+python main.py data.xlsx --model_path custom_model.pkl --config_path custom_config.json
 ```
 
 ## Требования
